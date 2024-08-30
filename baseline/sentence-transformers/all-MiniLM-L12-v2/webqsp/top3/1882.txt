@@ -1,0 +1,1 @@
+canadian province québec state/province location.province.capital location.province.capital location.statistical_region.renewable_freshwater_per_capita

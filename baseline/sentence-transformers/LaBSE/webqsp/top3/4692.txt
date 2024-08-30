@@ -1,0 +1,1 @@
+location nato nato advanced study institutes, 1974 = location.country.capital location.country.capital location.country.capital

@@ -1,0 +1,1 @@
+isthmus of panama pm-map where caught location in patagonia location.location.geometry base.locations.countries.planet base.locations.continents.planet base.locations.planets.continents_within base.locations.planets.countries_within

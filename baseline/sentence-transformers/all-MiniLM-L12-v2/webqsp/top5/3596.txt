@@ -1,0 +1,1 @@
+isthmus of panama over the andes western hemisphere northern hemisphere southern hemisphere location.administrative_division.country location.administrative_division.country location.country.administrative_divisions base.locations.planets.continents_within base.locations.continents.planet

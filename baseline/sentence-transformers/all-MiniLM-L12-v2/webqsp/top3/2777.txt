@@ -1,0 +1,1 @@
+location of murray, kentucky kentucky a portion of murray as seen from us hwy 641 base.locations.states_and_provences.country location.mailing_address.state_province_region location.mailing_address.state_province_region

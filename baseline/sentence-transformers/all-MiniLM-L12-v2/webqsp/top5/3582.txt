@@ -1,0 +1,1 @@
+euro federal ministry of finance (germany) financial times deutschland federal ministry of economics and technology (germany) federal ministry for economics and labour (germany) location.country.currency_formerly_used location.country.currency_formerly_used location.country.currency_formerly_used finance.currency.countries_formerly_used finance.currency.countries_formerly_used

@@ -1,0 +1,1 @@
+coins of the united states dollar penny united states dollar currency american samoa measurement_unit.money_value.currency base.coinsdaily.denomination.money_value base.coinsdaily.coin_type.country base.coinsdaily.coin_type.country base.coinsdaily.coin_type.country

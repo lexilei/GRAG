@@ -1,0 +1,1 @@
+location of spanish springs, nevada spanish springs cold springs base.locations.states_and_provences.country base.usnationalparks.us_national_park.state location.country.first_level_divisions

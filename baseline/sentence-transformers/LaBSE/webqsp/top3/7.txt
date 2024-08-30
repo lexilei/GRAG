@@ -1,0 +1,1 @@
+place of birth saki sittwe people.person.places_lived people.person.places_lived location.location.geolocation

@@ -1,0 +1,1 @@
+geico general insurance co geico safeco insurance base.services.insurance_type.insurers business.customer.supplier business.industry.companies

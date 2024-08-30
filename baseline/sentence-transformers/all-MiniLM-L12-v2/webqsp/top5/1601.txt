@@ -1,0 +1,1 @@
+currency euro currency used italy italia location.imports_and_exports.currency location.imports_and_exports.currency location.country.currency_used location.country.currency_used location.country.currency_used

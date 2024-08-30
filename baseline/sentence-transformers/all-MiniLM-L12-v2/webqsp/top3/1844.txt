@@ -1,0 +1,1 @@
+cordova area code postal code location.citytown.postal_codes location.citytown.postal_codes location.citytown.postal_codes

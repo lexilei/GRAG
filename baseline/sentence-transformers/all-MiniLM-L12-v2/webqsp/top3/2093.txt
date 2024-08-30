@@ -1,0 +1,1 @@
+korea-seoul-n seoul tower-01 south korean metropolitan city south korean city location.postal_code.country location.citytown.postal_codes location.location.geolocation

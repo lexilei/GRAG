@@ -1,0 +1,1 @@
+rickie fowler rod fowler taylor fowler lynn fowler golfer sports.pro_sports_played.sport sports.pro_sports_played.athlete sports.pro_athlete.sports_played_professionally sports.sports_gender.sports_teams base.schemastaging.caddie.golfers

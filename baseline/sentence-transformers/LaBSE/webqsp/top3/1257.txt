@@ -1,0 +1,1 @@
+currency hungarian forint hungary base.coinsdaily.coin_type.country measurement_unit.dated_money_value.currency measurement_unit.dated_money_value.currency

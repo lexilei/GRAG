@@ -1,0 +1,1 @@
+drogba chelsea drogba 2008 isaac drogba freddy drogba kieran drogba sports.sports_team.location soccer.football_player.position_s soccer.football_player.position_s sports.sport.positions base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position

@@ -1,0 +1,1 @@
+australian dollar currency currency used finance.currency.target_of_exchange finance.exchange_rate.target_of_exchange finance.currency.source_of_exchange

@@ -1,0 +1,1 @@
+sony corporation sony mobile sony ericsson xperia pro sony ericsson xperia ray sony mobile communications base.filmcameras.camera_lens.manufacturer base.filmcameras.camera_manufacturer.lenses_manufactured base.filmcameras.camera.manufacturer base.filmcameras.camera_manufacturer.cameras_manufactured digicams.digital_camera.manufacturer

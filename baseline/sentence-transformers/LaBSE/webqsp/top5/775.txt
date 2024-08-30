@@ -1,0 +1,1 @@
+mexico north-central mexico mexico state mexico city mexican state location.location.geolocation location.location.geolocation location.mailing_address.state_province_region location.location.geometry location.mx_state.capital

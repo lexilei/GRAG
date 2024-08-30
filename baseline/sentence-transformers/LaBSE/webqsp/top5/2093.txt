@@ -1,0 +1,1 @@
+south korea south korean special city south korean city seoul korea seoul tower location.postal_code.country location.mailing_address.country location.citytown.postal_codes location.mailing_address.state_province_region location.mailing_address.state_province_region

@@ -1,0 +1,1 @@
+currency italian lira currency used measurement_unit.dated_money_value.currency measurement_unit.dated_money_value.currency measurement_unit.dated_money_value.currency

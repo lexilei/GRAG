@@ -1,0 +1,1 @@
+acadia university acadia university faculty of arts location of acadia base.aareas.schema.administrative_area_type.subdivides_place location.mailing_address.citytown location.mailing_address.citytown

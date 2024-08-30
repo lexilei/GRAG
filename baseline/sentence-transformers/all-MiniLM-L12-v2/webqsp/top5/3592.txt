@@ -1,0 +1,1 @@
+currency used currency government of czech republic czech republic ministry of finance of the czech republic location.country.currency_formerly_used location.country.currency_formerly_used finance.currency.countries_formerly_used finance.currency.countries_formerly_used finance.currency.countries_used

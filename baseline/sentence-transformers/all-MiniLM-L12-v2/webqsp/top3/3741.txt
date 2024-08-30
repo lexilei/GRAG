@@ -1,0 +1,1 @@
+ferdinand magellan magellan construction and launch of magellan boats.ship_owner.ships_owned base.locations.countries.continent boats.ship_ownership.owner

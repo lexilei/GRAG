@@ -1,0 +1,1 @@
+chinese ministry of foreign affairs chinese ministry of foreign trade and economic cooperation shanghai cooperation organisation base.unitednations.united_nations_member_state.member_of base.unitednations.united_nations_body_membership.member base.unitednations.united_nations_body.members

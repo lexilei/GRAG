@@ -1,0 +1,1 @@
+bats europe:tom2 tomtom nv tomtom nv unsponsored adr tomtomone deutsche boerse otc:tom2sek base.locations.countries.planet base.locations.countries.planet type.type.domain base.locations.planets.countries_within base.locations.planets.countries_within

@@ -1,0 +1,1 @@
+location in north dakota north dakota dakota territory north dakota state capitol south dakota location.province.capital location.country.capital location.cotermination.location location.cotermination.location location.mailing_address.state_province_region

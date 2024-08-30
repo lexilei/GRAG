@@ -1,0 +1,1 @@
+nike, inc. warsaw nike nike location.country.currency_used base.locations.countries.continent sports.sports_team.location

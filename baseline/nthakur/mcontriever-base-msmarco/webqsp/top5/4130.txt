@@ -1,0 +1,1 @@
+united states, with territories united states of america u.s. state contiguous united states us state base.locations.place_in_the_world.state_province base.locations.cities_and_towns.country base.locations.place_in_the_world.country location.country.form_of_government location.country.form_of_government

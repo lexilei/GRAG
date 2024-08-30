@@ -1,0 +1,1 @@
+sydney observatory :sydney sydney location.australian_state.capital_city location.australian_state.capital_city location.australian_state.capital_city

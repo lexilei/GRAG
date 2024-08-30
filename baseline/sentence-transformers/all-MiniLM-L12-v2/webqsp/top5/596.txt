@@ -1,0 +1,1 @@
+canadian province canadian territory state/province québec ontario location.province.capital location.province.capital location.country.capital base.locations.countries.states_provinces_within base.locations.countries.states_provinces_within

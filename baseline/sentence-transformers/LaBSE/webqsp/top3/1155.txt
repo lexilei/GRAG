@@ -1,0 +1,1 @@
+airport ithaca tompkins airport the ithacan location.location.nearby_airports location.mailing_address.country location.mailing_address.country

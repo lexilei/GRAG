@@ -1,0 +1,1 @@
+location of louisville, nebraska louisville louisville state recreation area omaha-council bluffs, ne-ia metropolitan statistical area lewis cass base.locations.states_and_provences.country base.locations.countries.states_provinces_within location.country.first_level_divisions location.country.first_level_divisions location.statistical_region.co2_emissions_residential

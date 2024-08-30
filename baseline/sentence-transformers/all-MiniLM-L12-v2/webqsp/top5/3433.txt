@@ -1,0 +1,1 @@
+jovan belcher john belcher zoey belcher assassination by 'suicide' edouard manet: suicide, 1877 people.deceased_person.cause_of_death people.deceased_person.cause_of_death people.deceased_person.place_of_death people.deceased_person.place_of_death people.cause_of_death.includes_causes_of_death

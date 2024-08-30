@@ -1,0 +1,1 @@
+protected citizens public is not a synonym of receives action

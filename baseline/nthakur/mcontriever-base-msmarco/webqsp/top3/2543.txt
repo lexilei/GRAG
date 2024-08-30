@@ -1,0 +1,1 @@
+arabic, levantine bedawi spoken arabic, eastern egyptian bedawi spoken arabic, tunisian spoken base.meedan.arabic_language_media_source.country language.human_language.countries_spoken_in language.human_language.countries_spoken_in

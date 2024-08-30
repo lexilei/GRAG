@@ -1,0 +1,1 @@
+currency italian lira currency used italia italian minister of foreign affairs measurement_unit.dated_money_value.currency measurement_unit.dated_money_value.currency measurement_unit.dated_money_value.currency measurement_unit.dated_money_value.currency measurement_unit.dated_money_value.currency

@@ -1,0 +1,1 @@
+penny coins of the united states dollar united states dollar base.coinsdaily.denomination.money_value base.coinsdaily.coin_type.denomination base.coinsdaily.coin_type.denomination

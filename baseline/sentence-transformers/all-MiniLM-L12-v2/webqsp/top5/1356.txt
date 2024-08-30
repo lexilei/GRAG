@@ -1,0 +1,1 @@
+phx phoenix metropolitan area arizona phoenix downtown phoenix base.aareas.schema.administrative_area.administrative_children base.aareas.schema.administrative_area.administrative_children base.aareas.schema.administrative_area.administrative_children people.person.children location.place_with_neighborhoods.neighborhoods

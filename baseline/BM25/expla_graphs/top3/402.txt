@@ -1,0 +1,1 @@
+intelligence tests banned false positives is a part of receives action

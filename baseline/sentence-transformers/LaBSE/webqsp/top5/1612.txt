@@ -1,0 +1,1 @@
+eric northman eric bloodaxe norse king of york 952 954 the twilight saga: breaking dawn - part 1 the twilight saga: new moon the twilight saga: breaking dawn - part 2 tv.tv_series_season.episodes tv.tv_guest_role.episodes_appeared_in tv.tv_character.appeared_in_tv_episodes tv.tv_program.episodes tv.tv_series_season.regular_cast

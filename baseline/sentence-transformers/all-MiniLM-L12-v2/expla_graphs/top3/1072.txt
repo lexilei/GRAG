@@ -1,0 +1,1 @@
+property right protected new products has property desires desires

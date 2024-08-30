@@ -1,0 +1,1 @@
+inaugural address of john f. kennedy conversations with kennedy john f. kennedy speech jfk inauguration the inaugural address base.inaugurations.inauguration.inaugural_address base.inaugurations.inauguration_speaker.inauguration location.location.geolocation location.location.geolocation location.location.geolocation

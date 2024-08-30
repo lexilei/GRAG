@@ -1,0 +1,1 @@
+peter king jeffrey king peter frank location.country.capital people.person.places_lived location.postal_code.country

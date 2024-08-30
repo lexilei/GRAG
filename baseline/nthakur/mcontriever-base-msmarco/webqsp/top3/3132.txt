@@ -1,0 +1,1 @@
+location austria eu europe austrian statutory city alliance for the future of austria location.country.capital base.aareas.schema.administrative_area.capital base.aareas.schema.administrative_area.capital

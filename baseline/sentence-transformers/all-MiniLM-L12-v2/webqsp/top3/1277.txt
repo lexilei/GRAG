@@ -1,0 +1,1 @@
+currency aruba currency used location.country.currency_used location.country.currency_used location.country.currency_used

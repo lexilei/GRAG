@@ -1,0 +1,1 @@
+new york city blackout of 1977 northeast blackout of 2003 northeast blackout of 1965 base.infrastructure.power_outage.cause_type base.infrastructure.type_of_power_outage_cause.cause_of_power_outages base.infrastructure.power_outage.ptype

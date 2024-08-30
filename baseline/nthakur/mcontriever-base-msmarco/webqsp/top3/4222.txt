@@ -1,0 +1,1 @@
+brazilian municipality brazilian mesoregion brazilian state location.br_state.capital location.country.capital location.statistical_region.energy_use_per_capita

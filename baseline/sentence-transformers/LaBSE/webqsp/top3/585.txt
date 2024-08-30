@@ -1,0 +1,1 @@
+aircraft owner skywest airlines skywest, inc. aviation.aircraft_ownership_count.aircraft_owner aviation.aircraft_ownership_count.aircraft_owner aviation.airport.operator

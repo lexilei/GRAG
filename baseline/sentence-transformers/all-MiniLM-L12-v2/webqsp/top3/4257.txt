@@ -1,0 +1,1 @@
+paris paris - place de l'etoile paris: city of art base.locations.cities_and_towns.country location.country.capital location.country.capital

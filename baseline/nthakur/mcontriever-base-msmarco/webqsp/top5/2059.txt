@@ -1,0 +1,1 @@
+chicago blackhawks chicago cubs 2007 ncaa division i men's ice hockey national championship: michigan state vs. boston college ice hockey coach nhl stanley cup champions 2008-2009: pittsburgh penguins sports.sports_team_coach_tenure.coach sports.sports_team_coach_tenure.position sports.sports_team_coach_tenure.team ice_hockey.hockey_coach.current_team ice_hockey.hockey_team.coach

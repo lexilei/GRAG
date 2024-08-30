@@ -1,0 +1,1 @@
+michigan norml time zone michigan timezoneswest central time zone time.time_zone.day_dst_ends time.time_zone.day_dst_ends time.time_zone.day_dst_begins time.time_zone.day_dst_begins business.open_times.time_zone

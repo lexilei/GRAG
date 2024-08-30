@@ -1,0 +1,1 @@
+nba: kevin garnett kevin garnett 2008-01-13 kevin garnett sports.sports_league_draft_pick.player sports.drafted_athlete.drafted sports.sports_league_draft_pick.team

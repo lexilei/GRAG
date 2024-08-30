@@ -1,0 +1,1 @@
+the distinctive bottle of jack daniel's whiskey is familiar around the world jack daniel's jack daniel distilled_spirits.spirit_producing_region.distilleries distilled_spirits.distillery.region location.location.people_born_here

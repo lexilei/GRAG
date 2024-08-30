@@ -1,0 +1,1 @@
+focus: picasso sculpture a year of picasso paintings: 1969 picasso: the sculptures visual_art.visual_art_form.artists visual_art.visual_art_form.artists visual_art.visual_art_form.artists

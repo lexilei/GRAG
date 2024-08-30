@@ -1,0 +1,1 @@
+location caribbean :caribbean the caribbean base.locations.countries.continent base.locations.countries.continent base.locations.countries.continent

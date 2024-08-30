@@ -1,0 +1,1 @@
+alex smith alex smith running alex smith at 49ers training camp 2010-08-11 1 american_football.football_player.position_s american_football.football_player.forty_yard_dash_time american_football.football_player.receiving

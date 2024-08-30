@@ -1,0 +1,1 @@
+diwali diwali nominal occurrence (earth, 2006) diwali observance rule (earth, 2000 - now) time.day_of_year.holidays time.holiday.day_of_year religion.religion.holidays

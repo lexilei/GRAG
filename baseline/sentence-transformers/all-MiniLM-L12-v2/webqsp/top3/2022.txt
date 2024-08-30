@@ -1,0 +1,1 @@
+fukushima prefecture fukushima daiichi nuclear power plant fukushima base.infrastructure.nuclear_power_station.reactors base.infrastructure.nuclear_power_station.reactors base.infrastructure.nuclear_power_station.reactors

@@ -1,0 +1,1 @@
+:north america north america americas northern europe northern hemisphere base.locations.continents.states_provinces_within base.locations.continents.states_provinces_within base.locations.continents.states_provinces_within geography.lake.basin_countries geography.river.basin_countries

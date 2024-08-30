@@ -1,0 +1,1 @@
+shakespeare's birthplace shakespeare : the biography shakespeare: the biography fictional_universe.fictional_character.place_of_birth fictional_universe.fictional_character.place_of_birth people.person.place_of_birth

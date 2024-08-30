@@ -1,0 +1,1 @@
+thai region thai province thailand location.country.capital location.administrative_division.country location.administrative_division.country

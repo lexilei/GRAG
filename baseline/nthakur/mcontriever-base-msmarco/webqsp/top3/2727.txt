@@ -1,0 +1,1 @@
+southwest airlines southwest airlines co common stock southwest airlines flight 1248 -1 aviation.airliner_accident.flight_origin aviation.airliner_accident.flight_origin aviation.aviation_incident_aircraft_relationship.flight_origin

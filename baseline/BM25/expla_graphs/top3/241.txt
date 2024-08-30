@@ -1,0 +1,1 @@
+positive removed barrier is a not part of receives action

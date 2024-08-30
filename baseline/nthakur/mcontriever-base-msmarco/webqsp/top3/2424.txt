@@ -1,0 +1,1 @@
+john kerry presidential campaign, 2004 richard kerry john kerry base.politicalconventions.presidential_nominee.nominated_at base.politicalconventions.political_convention.presidential_nominee base.politicalconventions.political_convention.vice_presidential_nominee

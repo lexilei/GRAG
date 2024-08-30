@@ -1,0 +1,1 @@
+skywest, inc. skywest headquarters st george skywest airlines skyway airlines air midwest inc aviation.aircraft_model.number_owned_by aviation.aircraft_model.number_owned_by aviation.aircraft_ownership_count.aircraft_owner aviation.aircraft_ownership_count.aircraft_owner aviation.aircraft_ownership_count.aircraft_model

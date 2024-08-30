@@ -1,0 +1,1 @@
+cletus hogg appeared in tv episodes appeared in tv episode segments tv.tv_actor.starring_roles film.film_character.portrayed_in_films film.film.starring

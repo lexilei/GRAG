@@ -1,0 +1,1 @@
+aston martin v12 zagato aston martin v8 zagato aston martin dp212 aston martin v8 aston martin v8 vantage (2005) automotive.model.predecessor automotive.model.successor automotive.model.make automotive.model.make automotive.make.model_s

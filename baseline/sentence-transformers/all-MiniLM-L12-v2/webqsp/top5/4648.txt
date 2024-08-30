@@ -1,0 +1,1 @@
+john franklin new york location pennsylvania new jersey people.place_lived.location people.person.places_lived people.place_lived.person location.country.capital location.citytown.postal_codes

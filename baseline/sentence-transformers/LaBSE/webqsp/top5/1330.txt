@@ -1,0 +1,1 @@
+oregon state university oregon state university ecampus oregon state university historic district oregon university system oregon state university benny beaver location.us_county.county_seat location.us_state.capital location.mailing_address.state_province_region location.mailing_address.state_province_region education.university.local_tuition

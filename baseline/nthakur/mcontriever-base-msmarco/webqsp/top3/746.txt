@@ -1,0 +1,1 @@
+location of central neighborhood within minneapolis. minneapolis aquatennial downtown minneapolis, as seen from centennial place, in the elliot park neighborhood time.time_zone.day_dst_ends time.time_zone.day_dst_begins location.location.time_zones

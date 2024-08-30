@@ -1,0 +1,1 @@
+kansas city kansas city metropolitan area one kansas city place base.locations.cities_and_towns.state_province base.locations.cities_and_towns.state_province location.citytown.postal_codes

@@ -1,0 +1,1 @@
+sergio agüero sergioaguero kun aguero argentina national football team argentina soccer.football_goal.scorer base.x2010fifaworldcupsouthafrica.current_world_cup_squad.players soccer.football_player.goals_scored soccer.football_player_match_participation.team soccer.football_player_match_participation.team

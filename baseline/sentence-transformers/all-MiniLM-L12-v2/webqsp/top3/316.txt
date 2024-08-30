@@ -1,0 +1,1 @@
+uk constituent country united kingdom, with dependencies and territories kingdom of great britain base.unitednations.united_nations_member_state.member_of geography.river.basin_countries geography.river.basin_countries

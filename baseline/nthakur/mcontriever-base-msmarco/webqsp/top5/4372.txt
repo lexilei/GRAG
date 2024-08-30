@@ -1,0 +1,1 @@
+holy week the catholic times all saints' day observance rule (spain, 2000 - now) all saints' day observance rule (france, 2000 - now) all saints' day base.saints.feast_day.date_celebrated base.saints.feast_day.saint base.saints.feast_day.saint base.saints.feast_day.places_celebrated base.saints.feast_day.places_celebrated

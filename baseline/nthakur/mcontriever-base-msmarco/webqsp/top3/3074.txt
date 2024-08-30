@@ -1,0 +1,1 @@
+ken barlow coronation street - season 0 coronation street - season 1 tv.tv_character.appeared_in_tv_episodes tv.tv_guest_role.character tv.tv_series_season.regular_cast

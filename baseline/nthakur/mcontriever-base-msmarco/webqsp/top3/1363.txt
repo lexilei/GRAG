@@ -1,0 +1,1 @@
+united kingdom, with dependencies and territories location of the united kingdom united kingdom base.unitednations.united_nations_member_state.member_of base.unitednations.united_nations_body_membership.member government.form_of_government.countries

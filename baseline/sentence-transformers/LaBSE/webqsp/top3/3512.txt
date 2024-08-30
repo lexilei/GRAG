@@ -1,0 +1,1 @@
+arkansas state capitol arkansas senate arkansas state senator location.us_state.capital government.governmental_body.body_this_is_a_component_of base.locations.states_and_provences.country

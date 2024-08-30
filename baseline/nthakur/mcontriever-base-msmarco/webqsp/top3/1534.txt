@@ -1,0 +1,1 @@
+president of cuba prime minister of cuba first vice president of cuba government.political_appointer.appointees government.government_position_held.appointed_by government.political_party_tenure.politician

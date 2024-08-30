@@ -1,0 +1,1 @@
+diwali nominal occurrence (earth, 2019) diwali nominal occurrence (earth, 2020) diwali base.schemastaging.holiday_fixed_date_observance_rule.month time.day_of_year.holidays time.holiday.day_of_year

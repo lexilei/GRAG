@@ -1,0 +1,1 @@
+nineveh governorate nineveh city location.country.capital location.country.capital time.event.locations

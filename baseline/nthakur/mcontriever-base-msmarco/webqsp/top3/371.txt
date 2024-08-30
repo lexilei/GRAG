@@ -1,0 +1,1 @@
+mount whitney mount williamson mount mallory base.bigsky.site.nearby_peaks base.bigsky.site.mountain_range base.bigsky.site.mountain_range

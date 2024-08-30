@@ -1,0 +1,1 @@
+hsbc bank as hsbc bank hsbc bank argentina location.country.capital location.mailing_address.country location.mailing_address.postal_code

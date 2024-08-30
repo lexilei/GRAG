@@ -1,0 +1,1 @@
+mauritius - 1 rupee - coin the bank of mauritius. bank of mauritius tower finance.currency.countries_used location.country.currency_used measurement_unit.dated_money_value.currency

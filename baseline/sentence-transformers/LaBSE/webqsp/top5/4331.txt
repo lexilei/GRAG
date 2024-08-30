@@ -1,0 +1,1 @@
+mts iceplex mcphillips station casino winnipeg soccer complex winnipeg square rbc convention centre winnipeg location.mailing_address.country location.location.geolocation location.location.geolocation location.location.geolocation location.mailing_address.state_province_region

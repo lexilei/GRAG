@@ -1,0 +1,1 @@
+fiat 500 abarth abarth-fiat 500 1973 abarth base.cars_refactor.company.makes base.cars_refactor.company_make_relationship.make automotive.company.make_s

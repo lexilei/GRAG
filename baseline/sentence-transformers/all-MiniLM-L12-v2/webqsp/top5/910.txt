@@ -1,0 +1,1 @@
+peter king jeffrey king location peter frank rhode island location.country.capital people.place_lived.location location.location.geolocation people.person.places_lived location.postal_code.country

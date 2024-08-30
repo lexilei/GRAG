@@ -1,0 +1,1 @@
+north america united states of america americas location.country.national_anthem location.country.capital base.locations.states_and_provences.country

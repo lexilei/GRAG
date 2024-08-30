@@ -1,0 +1,1 @@
+uefa euro 2012 quarter-finals uefa euro 2012 semi-finals uefa euro 2012 semi-final i uefa euro 2012 quarter-final i uefa euro 2012 semi-final ii sports.tournament_event_competition.tournament sports.multi_event_tournament.competitions base.tournaments.tournament.qualification_tournaments base.tournaments.tournament_match.competitors base.tournaments.tournament_match.competitors

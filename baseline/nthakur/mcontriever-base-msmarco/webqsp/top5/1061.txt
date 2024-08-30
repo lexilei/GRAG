@@ -1,0 +1,1 @@
+devon sawa edward sawa stephanie sawa brandon sawa joyce sawa people.place_lived.location people.person.places_lived people.place_lived.person location.administrative_division.first_level_division_of people.person.place_of_birth

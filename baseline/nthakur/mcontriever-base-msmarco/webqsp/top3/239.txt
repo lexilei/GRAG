@@ -1,0 +1,1 @@
+atlanta atlanta state park txmap-doton-atlanta location.us_state.capital base.locations.states_and_provences.country location.location.geolocation

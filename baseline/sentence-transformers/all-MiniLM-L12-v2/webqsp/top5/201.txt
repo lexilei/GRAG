@@ -1,0 +1,1 @@
+2011 christchurch earthquake christchurch christchurch city earthquake quake epicenters 1963-98 event.disaster_affected_structure.destroyed_by_disaster event.disaster_affected_structure.destroyed_by_disaster event.disaster_affected_structure.destroyed_by_disaster time.event.locations time.event.locations

@@ -1,0 +1,1 @@
+office of the governor of the state of texas timezoneswest time zone(s) republic of texas texas department of state health services time.time_zone.day_dst_begins time.time_zone.day_dst_begins time.time_zone.day_dst_ends time.time_zone.day_dst_ends location.location.time_zones

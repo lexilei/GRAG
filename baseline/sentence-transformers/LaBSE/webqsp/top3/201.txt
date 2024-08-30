@@ -1,0 +1,1 @@
+2011 christchurch earthquake christchurch cathedral, christchurch christchurch event.disaster.type_of_disaster event.disaster_affected_structure.destroyed_by_disaster event.disaster_affected_structure.destroyed_by_disaster

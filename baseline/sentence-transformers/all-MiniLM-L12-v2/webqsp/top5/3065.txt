@@ -1,0 +1,1 @@
+mauritius - 1 rupee - coin mauritius the bank of mauritius. currency dependency of mauritius finance.currency.countries_used location.country.currency_used measurement_unit.dated_money_value.currency measurement_unit.dated_money_value.currency measurement_unit.dated_money_value.currency

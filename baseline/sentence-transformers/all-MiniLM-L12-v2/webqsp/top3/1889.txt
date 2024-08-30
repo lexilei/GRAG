@@ -1,0 +1,1 @@
+2006 cheltenham gold cup 2007 cheltenham gold cup 2008 cheltenham gold cup base.horseracing.racecourse_horse_race_dates.recurring_horse_race_ran_here base.horseracing.race_results.race base.horseracing.race_results.race

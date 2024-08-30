@@ -1,0 +1,1 @@
+steve nash steve nash 00054544 lola nash matteo joel nash martin nash tv.tv_guest_role.actor tv.tv_actor.guest_roles sports.pro_athlete.sports_played_professionally tv.tv_guest_role.episodes_appeared_in film.film.starring

@@ -1,0 +1,1 @@
+canadian province canadian territory canada base.locations.states_and_provences.continent base.locations.continents.states_provinces_within base.locations.countries.continent

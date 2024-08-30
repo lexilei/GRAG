@@ -1,0 +1,1 @@
+elvis lives: live in memphis elvis presley: elvis in hollywood elvis presley: the early years elvis presley in 1957 why elvis? location.metropolitan_area.anchor_city location.mailing_address.citytown people.place_lived.location people.place_lived.location people.place_lived.location

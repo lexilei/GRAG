@@ -1,0 +1,1 @@
+paul ryan (politician) u.s. house of rep., paul ryan paul ryan paul murray ryan charles ryan government.government_position_held.office_position_or_title government.government_position_held.office_holder government.politician.government_positions_held government.government_position_held.jurisdiction_of_office government.political_party_tenure.politician

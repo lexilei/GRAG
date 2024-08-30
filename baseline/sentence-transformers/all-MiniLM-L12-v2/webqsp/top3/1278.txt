@@ -1,0 +1,1 @@
+roman abramovich arkadiy abramovich arina abramovich location.country.capital location.country.capital people.place_lived.location

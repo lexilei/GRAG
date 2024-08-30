@@ -1,0 +1,1 @@
+isthmus of panama where caught location amazon time zone in patagonia base.locations.continents.planet base.locations.countries.planet location.location.geometry base.locations.planets.continents_within time.time_zone.locations_in_this_time_zone

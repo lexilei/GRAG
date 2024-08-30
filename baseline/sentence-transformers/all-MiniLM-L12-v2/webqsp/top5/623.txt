@@ -1,0 +1,1 @@
+north america united states of america americas united states, with territories canada location.country.national_anthem location.country.capital base.locations.states_and_provences.country base.locations.states_and_provences.country base.locations.states_and_provences.country

@@ -1,0 +1,1 @@
+australian continent australia oceania australasia south australia location.australian_territory.capital_city location.australian_state.capital_city location.australian_state.capital_city location.australian_state.capital_city base.locations.countries.continent

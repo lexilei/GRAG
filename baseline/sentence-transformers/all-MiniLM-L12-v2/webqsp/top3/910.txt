@@ -1,0 +1,1 @@
+peter king jeffrey king location location.country.capital people.place_lived.location location.location.geolocation

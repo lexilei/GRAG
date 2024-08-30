@@ -1,0 +1,1 @@
+austrian state austria upper austria location.country.capital location.capital_of_administrative_division.capital_of location.administrative_division.capital

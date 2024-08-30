@@ -1,0 +1,1 @@
+thor jr heyerdahl thor heyerdahl, sr. thor heyerdahl base.thoroughbredracing.thoroughbred_racehorse.sex base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex freebase.type_profile.published

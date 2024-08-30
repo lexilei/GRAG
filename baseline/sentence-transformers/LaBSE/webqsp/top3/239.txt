@@ -1,0 +1,1 @@
+atlanta atlanta state park texas location.us_state.capital location.us_county.county_seat location.postal_code.country

@@ -1,0 +1,1 @@
+nasdaq nasdaq marketsite stock exchange finance.stock_exchange.primary_regions venture_capital.venture_funded_company.total_venture_investment_raised rdf-schema#range

@@ -1,0 +1,1 @@
+day dst begins day of year time time zone name (dst) dst offset from utc time.time_zone.day_dst_begins time.time_zone.day_dst_begins time.time_zone.day_dst_ends time.time_zone.day_dst_ends type.type.domain

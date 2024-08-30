@@ -1,0 +1,1 @@
+currency italian lira italia location.imports_and_exports.currency location.imports_and_exports.currency measurement_unit.dated_money_value.currency

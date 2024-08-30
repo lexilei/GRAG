@@ -1,0 +1,1 @@
+minnesota university of minnesota duluth university of minnesota duluth champ location.us_county.county_seat location.mailing_address.state_province_region location.mailing_address.state_province_region

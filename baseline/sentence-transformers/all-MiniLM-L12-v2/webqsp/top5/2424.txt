@@ -1,0 +1,1 @@
+john kerry presidential campaign, 2004 senator john kerry john f. kerry u.s senate - john kerry john kerry government.election_campaign.candidate government.election_campaign.election government.election.campaigns government.election_campaign.party base.politicalconventions.pres_delegate_vote_tally.candidate

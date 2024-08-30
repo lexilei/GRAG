@@ -1,0 +1,1 @@
+giovanni da verrazzano giovanniverrazano 1524: voyage of verrazzano. people.person.places_lived people.place_lived.location people.place_lived.person

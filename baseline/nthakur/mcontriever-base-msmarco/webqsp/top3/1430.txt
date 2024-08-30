@@ -1,0 +1,1 @@
+battle of appomattox station battle of appomattox court house appomattox campaign base.americancivilwar.battle.military_units_involved_in_this_conflict base.americancivilwar.military_unit.conflicts_participated_in base.locations.states_and_provences.country

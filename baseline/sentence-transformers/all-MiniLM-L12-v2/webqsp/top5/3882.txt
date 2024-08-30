@@ -1,0 +1,1 @@
+steve spurrier, jr. steve spurrier 2006-09-02 steve spurrier j. graham spurrier scott spurrier american_football.football_coach.current_team_head_coached american_football.football_historical_coach_position.team american_football.football_historical_coach_position.team american_football.football_historical_coach_position.team american_football.football_team.current_head_coach

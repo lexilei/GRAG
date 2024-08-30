@@ -1,0 +1,1 @@
+g. scott romney josh romney matt romney george w. romney milton romney location.mailing_address.state_province_region government.election_campaign.candidate government.election_campaign.candidate base.locations.states_and_provences.country base.locations.states_and_provences.country

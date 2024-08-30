@@ -1,0 +1,1 @@
+abarth-fiat 500 1973 fiat 500 abarth fiat chrysler automobiles fiat s.p.a. abarth 1000 gt coupé automotive.company.make_s automotive.make.model_s automotive.make.model_s automotive.make.parent_company base.cars_refactor.company.makes

@@ -1,0 +1,1 @@
+dst offset from utc g.1256774sm time zone abbreviation (dst) g.125dtc2vl time zone name (dst) time.time_zone.day_dst_ends time.time_zone.day_dst_ends time.time_zone.day_dst_begins time.time_zone.day_dst_begins base.ontologies.ontology_instance_mapping.freebase_topic

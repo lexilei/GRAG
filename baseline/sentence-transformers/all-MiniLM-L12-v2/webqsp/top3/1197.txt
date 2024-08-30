@@ -1,0 +1,1 @@
+location of germany german city munich location.country.capital location.country.capital time.event.locations

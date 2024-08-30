@@ -1,0 +1,1 @@
+magellan country country of nationality government.form_of_government.countries base.locations.countries.continent base.locations.continents.countries_within

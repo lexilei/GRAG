@@ -1,0 +1,1 @@
+thailand thai baht thailand ministry of finance location.country.currency_used finance.currency.countries_used measurement_unit.dated_money_value.currency

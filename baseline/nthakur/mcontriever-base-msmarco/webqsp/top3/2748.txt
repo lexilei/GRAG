@@ -1,0 +1,1 @@
+san francisco giants sports team owner owner(s) sports.sports_team_owner.teams_owned sports.professional_sports_team.owner_s architecture.ownership.owner

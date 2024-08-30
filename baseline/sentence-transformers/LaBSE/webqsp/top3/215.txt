@@ -1,0 +1,1 @@
+aston martin v12 zagato aston martin v8 zagato aston martin dp212 automotive.model.predecessor automotive.model.successor automotive.model.make

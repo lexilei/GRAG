@@ -1,0 +1,1 @@
+arkansas state capitol arkansas state senator governor of arkansas base.aareas.schema.administrative_area.capital location.us_state.capital base.aareas.schema.earth.sovereign_domain.sovereign_state

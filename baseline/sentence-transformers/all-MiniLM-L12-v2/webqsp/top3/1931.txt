@@ -1,0 +1,1 @@
+mexico city mexican municipality mexico location.country.capital location.country.gdp_nominal_per_capita olympics.olympic_games.host_city

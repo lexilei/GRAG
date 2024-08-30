@@ -1,0 +1,1 @@
+canadian province canadian territory newfoundland location.province.capital location.province.capital location.country.capital

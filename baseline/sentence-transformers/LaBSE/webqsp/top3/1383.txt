@@ -1,0 +1,1 @@
+location of shoreview, minnesota shoreview m.044044w location.us_county.county_seat location.us_state.capital location.location.geolocation

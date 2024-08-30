@@ -1,0 +1,1 @@
+cheltenham gold cup 1990 cheltenham gold cup 1988 cheltenham gold cup 1991 cheltenham gold cup 1998 cheltenham gold cup base.horseracing.racecourse_horse_race_dates.recurring_horse_race_ran_here base.horseracing.racecourse_horse_race_dates.horse_race_track base.horseracing.recurring_horse_race.race_venue base.horseracing.horse_race.results base.horseracing.horse_race.results

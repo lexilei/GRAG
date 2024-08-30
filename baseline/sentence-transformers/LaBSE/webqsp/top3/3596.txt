@@ -1,0 +1,1 @@
+isthmus of panama pm-map where caught location.location.geometry base.locations.countries.planet base.locations.continents.planet

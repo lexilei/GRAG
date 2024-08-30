@@ -1,0 +1,1 @@
+national ffa organization mfa incorporated foundation for agronomic research nonprofit organization official charity base.locations.states_and_provences.country organization.organization.place_founded location.country.first_level_divisions base.locations.countries.states_provinces_within location.administrative_division.country

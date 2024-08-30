@@ -1,0 +1,1 @@
+nagasaki nagasaki overview nagasaki attractions base.fires.explosion.cause location.jp_prefecture.capital event.disaster.victims

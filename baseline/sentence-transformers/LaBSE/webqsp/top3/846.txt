@@ -1,0 +1,1 @@
+kia kia motors kia k9 common.phone_number.service_location location.postal_code.country location.country.capital
